@@ -12,7 +12,7 @@ export default function StatsisticsPage() {
   // 승리, 패배, 무승부의 컬러
   const colors = ['#0074CC', '#FF4136', '#000000'];
 
-  // 차트 제목
+  // 차트 제목a
   const chartTitleStyle = {
     color: '#001F3F', // 연한 네이비색
     fontSize: '18px',
