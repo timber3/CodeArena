@@ -2,7 +2,7 @@ import TopBanner from "../../components/arena/TopBanner";
 import HotMatch from "../../components/arena/HotMatch";
 import Rank from "../../components/arena/Rank";
 import Statsistics from "../../components/arena/Statsistics";
-import RoomList from "../../components/arena/Match/RoomList";
+// import RoomList from "../../components/arena/Match/RoomList";
 // import ChatRoom from "../../components/arena/Match/Observe";
 
 export default function Arena() {
@@ -12,7 +12,7 @@ export default function Arena() {
       <HotMatch />
       <Rank />
       <Statsistics />
-      <RoomList />
+      {/* <RoomList /> */}
     </div>
   );
 }
