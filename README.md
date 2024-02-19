@@ -265,12 +265,19 @@ https://www.erdcloud.com/d/nrfqSDdChRWJpanzz
 
 ![Main](/asset/gif/arena_main.gif)    
 
+
 ### 매칭 진행
 
-
+![매칭진행](https://github.com/timber3/CodeArena/assets/75405129/2fe48f5f-66ad-4e0e-bd12-cdd68a603a85)
 
 ### 스피드전 진행, 화면공유 그리고 결과
 
+![스피드전진행](https://github.com/timber3/CodeArena/assets/75405129/d904afc7-f9e6-45e2-8532-1835b26cdf6d)
+
 ### 효율전 진행, 중간 채점현황
 
+![효율게임진행](https://github.com/timber3/CodeArena/assets/75405129/748263cf-7c64-455c-aa75-67ae0e72ad8d)
+
 ### 관전자 배팅 및 채팅
+
+![관전자,베팅](https://github.com/timber3/CodeArena/assets/75405129/f50666c7-9198-48f6-8ee6-be1a1dd5e4cf)
